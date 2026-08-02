@@ -6,6 +6,6 @@ Only using this for sniper. I'm changing the position to be more out of the way.
 ```
 		•Position:
 			X_position=15
-			Y_position=-15
-			Z_position=8
+			Y_position=-13
+			Z_position=5
 ```
